@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 3d89b8f5201b54641b8b7c347823a8ca
+timeCreated: 1464258422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbers-all-400x277_0
+    21300002: numbers-all-400x277_1
+    21300004: numbers-all-400x277_2
+    21300006: numbers-all-400x277_3
+    21300008: numbers-all-400x277_4
+    21300010: numbers-all-400x277_5
+    21300012: numbers-all-400x277_6
+    21300014: numbers-all-400x277_7
+    21300016: numbers-all-400x277_8
+    21300018: numbers-all-400x277_9
+    21300020: numbers-all-400x277_10
+    21300022: numbers-all-400x277_11
+    21300024: numbers-all-400x277_12
+    21300026: numbers-all-400x277_13
+    21300028: numbers-all-400x277_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: numbers-all-400x277_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 211
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 32}
+        - {x: -33, y: -32}
+        - {x: 33, y: -32}
+        - {x: 33, y: 32}
+    - name: numbers-all-400x277_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 211
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 32}
+        - {x: -33.5, y: -32}
+        - {x: 33.5, y: -32}
+        - {x: 33.5, y: 32}
+    - name: numbers-all-400x277_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 212
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 31.5}
+        - {x: -33, y: -31.5}
+        - {x: 33, y: -31.5}
+        - {x: 33, y: 31.5}
+    - name: numbers-all-400x277_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 212
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 31.5}
+        - {x: -35, y: -31.5}
+        - {x: 35, y: -31.5}
+        - {x: 35, y: 31.5}
+    - name: numbers-all-400x277_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 211
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 32}
+        - {x: -32.5, y: -32}
+        - {x: 32.5, y: -32}
+        - {x: 32.5, y: 32}
+    - name: numbers-all-400x277_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 31.5}
+        - {x: -32.5, y: -31.5}
+        - {x: 32.5, y: -31.5}
+        - {x: 32.5, y: 31.5}
+    - name: numbers-all-400x277_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 32}
+        - {x: -33.5, y: -32}
+        - {x: 33.5, y: -32}
+        - {x: 33.5, y: 32}
+    - name: numbers-all-400x277_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 32}
+        - {x: -33, y: -32}
+        - {x: 33, y: -32}
+        - {x: 33, y: 32}
+    - name: numbers-all-400x277_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 144
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 32}
+        - {x: -34, y: -32}
+        - {x: 34, y: -32}
+        - {x: 34, y: 32}
+    - name: numbers-all-400x277_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 143
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 32.5}
+        - {x: -33, y: -32.5}
+        - {x: 33, y: -32.5}
+        - {x: 33, y: 32.5}
+    - name: numbers-all-400x277_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 29.5}
+        - {x: -33, y: -29.5}
+        - {x: 33, y: -29.5}
+        - {x: 33, y: 29.5}
+    - name: numbers-all-400x277_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 30}
+        - {x: -32.5, y: -30}
+        - {x: 32.5, y: -30}
+        - {x: 32.5, y: 30}
+    - name: numbers-all-400x277_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 74
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 30}
+        - {x: -34, y: -30}
+        - {x: 34, y: -30}
+        - {x: 34, y: 30}
+    - name: numbers-all-400x277_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 72
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 31}
+        - {x: -33.5, y: -31}
+        - {x: 33.5, y: -31}
+        - {x: 33.5, y: 31}
+    - name: numbers-all-400x277_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 73
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -30.5}
+        - {x: 32.5, y: -30.5}
+        - {x: 32.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
